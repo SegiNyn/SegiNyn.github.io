@@ -9,8 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --force"
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
