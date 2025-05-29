@@ -11,7 +11,7 @@ const expCards = [
   {
     title: "Software Engineer",
     date: "September 2021 - Present",
-    year: "Present",
+    year: "2025",
     skills: "Python, Flask, React, JavaScript, HTML, CSS",
     employer: "United Nations office, Geneva",
     responsibilities: [
