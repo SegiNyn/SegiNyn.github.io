@@ -1,1 +1,3 @@
-Visit https://seginyn.github.io/ to view my page!
+Finally a portfolio for myself at https://seginyn.github.io/ !!!
+
+Most of the code was re-used from https://github.com/adrianhajdin/3d-portfolio.
